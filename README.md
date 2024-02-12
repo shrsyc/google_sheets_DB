@@ -1,1 +1,1 @@
-### Use ==Google Sheets== as a ==DATABASE==
+### Use `Google Sheets` as a ==DATABASE==
