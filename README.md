@@ -10,4 +10,5 @@ graph TD;
     id1-->id5(Delete);
     id3-->id6([GET-read data]);
     id2-->id7([POST - create data]);
+    id5-->id8([POST - delete data])
 ```
