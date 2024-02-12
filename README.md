@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD;
-    A-->B;
+    CRUD-->B;
     A-->C;
     B-->D;
     C-->D;
