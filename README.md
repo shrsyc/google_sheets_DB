@@ -8,5 +8,4 @@ graph TD;
     id1-->Read;
     id1-->Update;
     id1-->Delete;
-    (Read)-->([GET-Read data])
 ```
