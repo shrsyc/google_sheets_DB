@@ -4,8 +4,8 @@
 
 ```mermaid
 graph TD;
-    CRUD-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    CRUD-->Create;
+    CRUD-->Read;
+    CRUD-->Update;
+    CRUD-->Delete;
 ```
