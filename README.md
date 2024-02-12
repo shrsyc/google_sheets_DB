@@ -1,4 +1,4 @@
-### Use `Google Sheets` as a `DATABASE` for your *next project*.
+### Use `Google Sheets` as a `DATABASE` for your *project's prototype*.
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
 
