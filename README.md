@@ -4,7 +4,7 @@
 
 ```mermaid
 graph TD;
-    id1[(CRUD)]-->(Create);
+    id1[(CRUD)]-->id2(Create);
     id1-->Read;
     id1-->Update;
     id1-->Delete;
