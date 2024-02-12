@@ -4,9 +4,9 @@
 
 ```mermaid
 graph TD;
-    CRUD-->Create;
-    CRUD-->Read;
-    CRUD-->Update;
-    CRUD-->Delete;
+    id1[(CRUD)]-->Create;
+    id1-->Read;
+    id1-->Update;
+    id1-->Delete;
     Read-->id1[(Database)]
 ```
