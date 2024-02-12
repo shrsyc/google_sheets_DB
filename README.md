@@ -5,7 +5,8 @@
 ```mermaid
 graph TD;
     id1[(CRUD)]-->id2(Create);
-    id1-->Read;
-    id1-->Update;
-    id1-->Delete;
+    id1-->id3(Read);
+    id1-->id4(Update);
+    id1-->id5(Delete);
+    id3-->id6(GET-read data); 
 ```
