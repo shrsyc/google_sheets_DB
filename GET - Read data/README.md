@@ -13,3 +13,6 @@
 5. copy the `URL`.
 
 ## Testing the API using POSTMAN
+
+![image](https://github.com/shrsyc/google_sheets_DB/assets/99862109/c5248e4b-c38d-42ce-aa5c-a5d444905857)
+> replace with your copied URL.
