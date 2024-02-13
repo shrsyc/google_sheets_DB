@@ -1,6 +1,6 @@
 ### Use `Google Sheets` as a `DATABASE` for your *project's prototype*.
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> This repository containsonly the creation and testing of API.
 
 ```mermaid
 graph TD;
