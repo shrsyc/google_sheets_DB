@@ -1,4 +1,6 @@
-# `GET - Read Data`
+# GET - Read Data
+
+## Creating API Using Apps Script
 
 1. Open `google sheets as DB.xlsx` in google sheets.
 
@@ -9,3 +11,5 @@
 4. Deploy as a `new deployment` in `web app`.
 
 5. copy the `URL`.
+
+## Testing the API using POSTMAN
