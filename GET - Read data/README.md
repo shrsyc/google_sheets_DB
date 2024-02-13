@@ -14,5 +14,8 @@
 
 ## Testing the API using POSTMAN
 
+> Replace with your copied URL.
 ![image](https://github.com/shrsyc/google_sheets_DB/assets/99862109/c5248e4b-c38d-42ce-aa5c-a5d444905857)
-> replace with your copied URL.
+
+>Data fetched.
+![image](https://github.com/shrsyc/google_sheets_DB/assets/99862109/dd44fc15-63f1-48c2-a8f0-fe785d0ed5e5)
