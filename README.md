@@ -14,5 +14,5 @@ graph TD;
     id4-->id9([POST - update data]);
 ```
 
-[ ] repo image
-[ ] check for errors
+- [ ] repo image
+- [ ] check for errors
