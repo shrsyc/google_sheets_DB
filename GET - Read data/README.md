@@ -8,4 +8,4 @@
 
 4. Deploy as a `new deployment` in `web app`.
 
-5.copy the `URL`.
+5. copy the `URL`.
