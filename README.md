@@ -1,6 +1,6 @@
 ### Use `Google Sheets` as a `DATABASE` for your *project's prototype*.
 > [!NOTE]
-> This repository containsonly the creation and testing of API.
+> This repository containsbonly the creation and testing of API.
 
 ```mermaid
 graph TD;
@@ -13,3 +13,6 @@ graph TD;
     id5-->id8([POST - delete data]);
     id4-->id9([POST - update data]);
 ```
+
+[] repo image
+[] check for errors
