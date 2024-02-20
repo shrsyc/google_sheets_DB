@@ -1,9 +1,17 @@
-### Use `Google Sheets` as a `DATABASE` for your *project's prototype*.
+# Use `Google Sheets` as a `DATABASE` for your *project's prototype*.
+
+</br>
+
 > [!NOTE]
-> This repository containsbonly the creation and testing of API.
+> This repository contains only the creation and testing of API.
+
+</br>
 
 ![google_sheets_DB1](https://github.com/shrsyc/google_sheets_DB/assets/99862109/dcc26a5f-ecce-41fc-ac89-392b74997c39)
 
+</br>
+
+## CRUD operations , leaf nodes are files in the root of this repo.
 
 ```mermaid
 graph TD;
@@ -17,5 +25,4 @@ graph TD;
     id4-->id9([POST - update data]);
 ```
 
-- [ ] repo image
-- [ ] check for errors
+
