@@ -1,4 +1,4 @@
-# POST - Update Data
+# POST - Create Data
 
 ## Creating API Using Apps Script
 
