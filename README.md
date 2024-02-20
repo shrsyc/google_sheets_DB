@@ -7,7 +7,8 @@
 
 </br>
 
-![google_sheets_DB1](https://github.com/shrsyc/google_sheets_DB/assets/99862109/dcc26a5f-ecce-41fc-ac89-392b74997c39)
+
+![Alt text](<google_sheets_DB (1).png>)
 
 </br>
 
